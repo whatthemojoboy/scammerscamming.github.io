@@ -15,6 +15,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
+  text-align: center;
 }
 
 .main {
@@ -67,8 +68,7 @@ img {
   height: 70px;
   margin: 0;
   padding: 0;
-  margin-left: 10px;
-  margin-right: 45%;
+  margin-left: 20px;
 }
 a {
   color: white;

@@ -15,7 +15,6 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  text-align: center;
 }
 
 .main {
@@ -76,4 +75,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+#bank-name {
+  margin-left: 650px;  
 }

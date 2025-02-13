@@ -31,7 +31,7 @@ body {
   border-radius: 10px;
   transition: all 0.2s ease-in-out;
   cursor: pointer;
-  padding: 20px;
+  padding: 50px;
 }
 .main:hover {
   transition: all 0.2s ease-in-out;
@@ -43,7 +43,7 @@ body {
   border-radius: 50px;
   width: 200px;
   height: 30px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   padding: 5px;
   text-align: center;
 }
@@ -78,5 +78,9 @@ a:hover {
   text-decoration: underline;
 }
 #bank-name {
-  margin-left: 650px;  
+  margin-left: 44%;  
+}
+
+#greeting {
+  margin-bottom: 70px;
 }
